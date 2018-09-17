@@ -1,4 +1,4 @@
 -- 
-Grevener Straße 12, 48149 Münster, <http://mirko.westermeier.de>
+Überwasserstr. 33, 48143 Münster, <http://mirko.westermeier.de>
 E-Mail: <mirko@westermeier.de>, OpenPGP-Key-ID: 0x730E195D
 Key fingerprint: 55A8 9646 9B58 60AC B5BC  9661 FDD4 93C0 730E 195D
