@@ -1,5 +1,0 @@
--- 
-Mirko Westermeier, mirko.westermeier@wwu.de
-Committee on European Computing Education
-Department of Computer Science, University of Muenster
-Key 0x730E195D, fpr 55A8 9646 9B58 60AC B5BC  9661 FDD4 93C0 730E 195D
